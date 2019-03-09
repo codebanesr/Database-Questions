@@ -1,0 +1,4 @@
+1NF - 
+2NF - partial dependency: Part of a key doesnot determine a non key attribute
+3NF - No transitive dependency
+BCNF - Left side is a super key
